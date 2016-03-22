@@ -1,0 +1,15 @@
+{
+  "name": "example-app",
+  "version": "1.0.0",
+  "description": "Example app to show how electron works",
+  "main": "main.js",
+  "dependencies": {
+    "electron-prebuilt": "^0.37.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "Electron ."
+  },
+  "author": "Lanford Gabriel Murillo",
+  "license": "ISC"
+}
